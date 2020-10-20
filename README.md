@@ -1,0 +1,1 @@
+golang base function with GRPC
